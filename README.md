@@ -1,18 +1,11 @@
-<div align="center">
-
-  ## Hola soy César Salazar, Frontend developer 👋
-
-</div>
+## Hola soy César Salazar, Frontend developer 👋
 
 ## 😃 Sobre mi
-
-- 🔭 Actualmente trabajo para una empresa desarrollando aplicaciones web.
-- 🌱 Actualmente estoy terminando un bootcamp de programación web.
-- 👯 Me encanta diseñar y programar ideas.
-- 📫 Estoy en constante aprendizaje y ponerme nuevos retos.
+- 🔭 Actualmente trabajo para una empresa desarrollando 💻 aplicaciones web.
+- 🌱 Estoy finalizando un bootcamp en desarrollo web, consolidando habilidades clave para enriquecer mi carrera profesional.
+- 📫 Me encanta aprender nuevas tecnologías y ponerme nuevos retos.
 
 ## 🛠️ Tecnologías y herramientas
-
 <div align="center">
   
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -38,3 +31,16 @@
 
 - Bootcamp Desarrollo Web TripleTen (2024 - 2025)
 - Ingenieria en Tecnologías de la Información y Comunicación (2010 - 2014)
+
+## 🌟 Proyectos Destacados
+
+- [Spotifu]([https://github.com/cesarcash/proyecto](https://github.com/cesarcash/spotifu)): Proyecto frontend de un curso de diseño web donde hice un clone de spotify
+- [Administrador de lista de tareas]([https://github.com/usuario/otro-proyecto](https://github.com/cesarcash/project-task-frontend)): Proyecto frontend y backend para gestión de tareas administrativas
+
+## 📫 Contacto
+
+- **Correo:** albertocash5@icloud.com
+- **LinkedIn:** [Mi perfil]([https://www.linkedin.com/in/cesarsalazar](https://www.linkedin.com/in/cesar-alberto-salazar-herrera/))
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=cesarcash&show_icons=true&theme=radical)
+
