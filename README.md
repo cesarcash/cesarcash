@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Skills 
-https://img.shields.io/badge/javascript-blue?logo=javascript
+[Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)<br>
