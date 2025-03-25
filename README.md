@@ -33,3 +33,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
+
+## 📚 Estudios
+
+- Bootcamp Desarrollo Web TripleTen (2024 - 2025)
+- Ingenieria en Tecnologías de la Información y Comunicación (2010 - 2014)
