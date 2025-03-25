@@ -28,19 +28,19 @@
 </div>
 
 ## 📚 Estudios
-
 - Bootcamp Desarrollo Web TripleTen (2024 - 2025)
 - Ingenieria en Tecnologías de la Información y Comunicación (2010 - 2014)
 
 ## 🌟 Proyectos Destacados
 
-- [Spotifu]([https://github.com/cesarcash/proyecto](https://github.com/cesarcash/spotifu)): Proyecto frontend de un curso de diseño web donde hice un clone de spotify
-- [Administrador de lista de tareas]([https://github.com/usuario/otro-proyecto](https://github.com/cesarcash/project-task-frontend)): Proyecto frontend y backend para gestión de tareas administrativas
+- [![GitHub](https://img.shields.io/badge/Repositorio%20en-GitHub-181717?style=flat&logo=github)](https://github.com/cesarcash/spotifu) **Spotifu**: Proyecto frontend de un curso de diseño web donde hice un clone de Spotify.
+- [![GitHub](https://img.shields.io/badge/Repositorio%20en-GitHub-181717?style=flat&logo=github)](https://github.com/cesarcash/project-task-frontend) **Administrador de lista de tareas**: Proyecto frontend y backend para gestión de tareas administrativas.
+- [![GitHub](https://img.shields.io/badge/Repositorio%20en-GitHub-181717?style=flat&logo=github)](https://github.com/cesarcash/clima) **Weather App**: Proyecto frontend y consumo de API externa para mostrar datos de clima en tiempo real
 
 ## 📫 Contacto
 
-- **Correo:** albertocash5@icloud.com
-- **LinkedIn:** [Mi perfil]([https://www.linkedin.com/in/cesarsalazar](https://www.linkedin.com/in/cesar-alberto-salazar-herrera/))
+- [![Correo](https://img.shields.io/badge/Correo-albertocash5@icloud.com-blue?style=flat&logo=gmail)](mailto:albertocash5@icloud.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alberto-salazar-herrera/)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=cesarcash&show_icons=true&theme=radical)
 
