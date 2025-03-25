@@ -1,22 +1,20 @@
-## Hi there 👋
+<div align="center">
+  
+## Hola soy César Salazar, Frontend developer 👋
 
-<!--
-**cesarcash/cesarcash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajo para una empresa desarrollando aplicaciones web.
+- 🌱 Actualmente estoy terminando un bootcamp de programación web.
+- 👯 Me encanta diseñar y programar ideas.
+- 📫 Estoy en constante aprendizaje y ponerme nuevos retos.
+
+<div align="center">
 
 ## 🛠️ Tecnologías y herramientas
-
+  
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -34,3 +32,4 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+</div>
