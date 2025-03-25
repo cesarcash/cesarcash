@@ -1,19 +1,19 @@
 <div align="center">
-  
-## Hola soy César Salazar, Frontend developer 👋
 
-## Sobre mi
+  ## Hola soy César Salazar, Frontend developer 👋
 
 </div>
+
+## 😃 Sobre mi
 
 - 🔭 Actualmente trabajo para una empresa desarrollando aplicaciones web.
 - 🌱 Actualmente estoy terminando un bootcamp de programación web.
 - 👯 Me encanta diseñar y programar ideas.
 - 📫 Estoy en constante aprendizaje y ponerme nuevos retos.
 
-<div align="center">
-
 ## 🛠️ Tecnologías y herramientas
+
+<div align="center">
   
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
