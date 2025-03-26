@@ -44,3 +44,5 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=cesarcash&show_icons=true&theme=radical)
 
+## Lenguajes Más Usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcash&layout=compact)
